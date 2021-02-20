@@ -1,0 +1,10 @@
+li{
+    font-size: 2em;
+}
+
+.changedcolor{
+    color: red;
+}
+body{
+    background-color: rgb(126, 126, 163);
+}
